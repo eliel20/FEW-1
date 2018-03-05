@@ -1,0 +1,10 @@
+.slider .slides li .caption
+{
+    color: darkslategray;
+    text-shadow: 1px 1px 5px white;
+}
+
+.textslider
+{
+    color: white;
+}
